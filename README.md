@@ -65,19 +65,37 @@ Voici l'organisation du projet :
 ```bash
 ├── README.md
 ├── Makefile
+├── data (qui contient tous les résultats)
 └── src
     ├── include
-    │   ├── audioread.c 
-    │   ├── audioread.h
+    │   ├── audio_read.c 
+    │   ├── audio_read.h
     │   ├── encoding.c 
     │   ├── encoding.h
     │   ├── prediction.c
     │   ├── prediction.h
     │   ├── stft.c
     │   ├── stft.h
-    │   ├── utils.c (fonctions mathématiques élémentaires (argmax, produit matriciel ... ))
-    │   └── utils.h
+    │   ├── utils.c 
+    │   ├── utils.h
+    │   └── classifier.py
     └── main.c
 ```
+
+Voici la contribution de chacun : 
+
+audio-read : Adama et Chen
+encoding : Chen
+classifier : Chen
+prediction : Chen
+slides : Adama et Chen
+
+
+
+
+
+
+
+
 
 
