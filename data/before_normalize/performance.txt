@@ -1,0 +1,2 @@
+Performances du modèle sur la base de données de test :  0.59
+

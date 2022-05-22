@@ -1,0 +1,6 @@
+Performances du modèle sur la base de données de test :  0.645
+
+iter = 1000
+
+c = 0.05 , performance = 0.64
+c = 0.2 , performance = 0.635
