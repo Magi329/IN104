@@ -84,10 +84,10 @@ Voici l'organisation du projet :
 
 Voici la contribution de chacun : 
 
-audio-read : Adama et Chen
-encoding : Chen
-classifier : Chen
-prediction : Chen
+audio-read : Adama et Chen;
+encoding : Chen;
+classifier : Chen;
+prediction : Chen;
 slides : Adama et Chen
 
 
